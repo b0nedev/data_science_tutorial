@@ -6,3 +6,4 @@ data science
 - pandas
 - scipy
 - metplotlib
+- scikit-learn
